@@ -1,0 +1,9 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=0
+ro.allow.mock.location=0
+ro.debuggable=1
+ro.cm10=1
+persist.sys.usb.config=adb
+sys.usb.config=adb
